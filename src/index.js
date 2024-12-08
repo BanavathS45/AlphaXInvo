@@ -10,13 +10,12 @@ import "animate.css/animate.compat.css";
 import "bootstrap/dist/css/bootstrap.css";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { AnimatePresence } from "framer-motion";
- 
 
 const container = document.getElementById("root");
 const root = createRoot(container);
 root.render(
   <AnimatePresence>
-    <BrowserRouter basename="CoupoanPro">
+    <BrowserRouter basename="AlphaXInvo">
       <App />
 
       {/* <Blog/> */}
