@@ -1,5 +1,5 @@
 {
-  "homepage": "https://BanavathS45.github.io/CoupoanPro",
+  "homepage": "https://BanavathS45.github.io/AlphaXInvo",
   "name": "e-mart-ecommarce",
   "version": "0.1.0",
   "private": false,
@@ -65,6 +65,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.2.0"
   }
 }
