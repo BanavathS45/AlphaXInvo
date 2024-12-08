@@ -1,0 +1,65 @@
+/* Glowing Button - Blue & Purple */
+.glowing-button {
+  background: linear-gradient(135deg, #6a5acd, #1e90ff);
+  color: rgb(6, 9, 24);
+  font-size: 20px;
+  font-weight: bold;
+  padding: 15px 50px;
+  border: none;
+  border-radius: 10px;
+  position: relative;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+  overflow: hidden;
+  box-shadow: 0 4px 15px rgba(30, 144, 255, 0.5);
+  margin-top: 40px;
+}
+
+.glowing-button::before {
+  content: "";
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: rgba(255, 255, 255, 0.2);
+  opacity: 0.5;
+  transform: rotate(45deg);
+  transition: all 0.5s ease;
+}
+
+.glowing-button::after {
+  content: "";
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: radial-gradient(
+    circle,
+    rgba(255, 255, 255, 0.5) 0%,
+    rgba(255, 255, 255, 0) 60%
+  );
+  opacity: 0;
+  transition: all 0.5s ease;
+}
+
+.glowing-button:hover::before {
+  transform: rotate(0deg);
+}
+
+.glowing-button:hover::after {
+  opacity: 1;
+}
+
+.glowing-button:hover {
+  transform: translateY(-5px) scale(1.05);
+  box-shadow: 0 8px 25px rgba(30, 144, 255, 0.8);
+}
+
+.glowing-button:active {
+  transform: translateY(0) scale(0.95);
+  box-shadow: 0 4px 10px rgba(30, 144, 255, 0.5);
+}

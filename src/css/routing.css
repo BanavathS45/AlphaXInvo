@@ -1,0 +1,148 @@
+/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  #header {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 30px;
+    background-color: var(--primary-color);
+    color: #fff;
+    align-items: center;
+  }
+  
+  #header .logo p {
+    font-size: 24px;
+    font-weight: bold;
+    color: #fff;
+  }
+  
+  #header .logo span {
+    color: #f39c12;
+  }
+  
+  /* Navbar Styling */
+  #navbar {
+    list-style: none;
+    display: flex;
+    align-items: center;
+  }
+  
+  #navbar li {
+    margin-right: 25px;
+  }
+  
+  .nav-link {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  
+  .nav-link:hover {
+    color: #f39c12;
+  }
+  
+  .active-link {
+    color: #f39c12;
+    font-weight: bold;
+  }
+  
+  .theme-toggle-button {
+    margin-left: 20px;
+    cursor: pointer;
+  }
+  
+  #mobile {
+    display: none;
+  }
+  
+  /* Mobile Menu */
+  @media (max-width: 768px) {
+    #mobile {
+      display: block;
+    }
+  
+    #navbar {
+      display: none;
+      flex-direction: column;
+      background-color: var(--primary-color);
+      width: 100%;
+      position: absolute;
+      top: 0;
+      left: 0;
+      padding: 20px;
+      z-index: 9999;
+    }
+  
+    #navbar.active {
+      display: block;
+    }
+  
+    #navbar li {
+      padding: 15px;
+      text-align: center;
+    }
+  
+    #navbar li a {
+      color: #fff;
+      text-decoration: none;
+      font-size: 18px;
+    }
+  
+    #navbar li a:hover {
+      color: #f39c12;
+    }
+  }
+  
+  /* Dropdown Menu */
+  .morecards3 {
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 40px;
+  }
+  
+  .card {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+  }
+  
+  .card:hover {
+    transform: translateY(-10px);
+  }
+  
+  .card-body {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .card-body h1 {
+    font-size: 20px;
+    color: #333;
+  }
+  
+  .card-body p {
+    font-size: 14px;
+    color: #777;
+  }
+  
+  .card-body img {
+    width: 40px;
+  }
+  
+  /* Dark Mode */
+  body.dark-mode {
+    background-color: #121212;
+    color: #fff;
+  }
+  
+  body.dark-mode #header {
+    background-color: #333;
+  }
+  

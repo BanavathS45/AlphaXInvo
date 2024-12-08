@@ -1,0 +1,87 @@
+1) ===========Astarinchimes=============================
+    *webUrl=https://astarinchimes.com/?ref=cKi-1man9hHJf
+    *refUrl=
+2) ===========boderry==================================
+   *webUrl=https://www.boderry.com/?ref=W1OA7ww2rzqIc  
+    *refUrl=
+3) ===========glamermaid===============================
+   *webUrl= https://glamermaid.com/?ref=sUjIFwB4zszw&utm_campaign=affiliate%20promotions&utm_medium=Goaffpro&utm_source=Goaffpro
+    *refUrl=
+4) ===========Guduchi==================================
+   *webUrl= https://guduchiayurveda.com/?ref=GAN5yXUEjtlyT
+HaircareUrl=https://guduchiayurveda.com/collections/hair-care?ref=GAN5yXUEjtlyT
+Skin careUrl=https://guduchiayurveda.com/collections/skin-face-care?ref=GAN5yXUEjtlyT
+Joint painUrl=https://guduchiayurveda.com/collections/pain-management?ref=GAN5yXUEjtlyT
+Weight GainUrl=https://guduchiayurveda.com/collections/weight-gain?ref=GAN5yXUEjtlyT
+Weight LossUrl=https://guduchiayurveda.com/collections/weight-loss?ref=GAN5yXUEjtlyT
+Digestive healthUrl=https://guduchiayurveda.com/collections/digestive-care?ref=GAN5yXUEjtlyT
+Health SupplementsUrl=https://guduchiayurveda.com/collections/health-supplements?ref=GAN5yXUEjtlyT
+Immune system supportUrl=https://guduchiayurveda.com/collections/immunity-booster?ref=GAN5yXUEjtlyT
+    *refUrl=
+5) ===========Joybos=============================
+ *webUrlSummer= https://joybos.com/?ref=OOQODS8oOV5Gc
+ *webUrlGermany=https://de.joybos.com/?ref=OOQODS8oOV5Gc 
+ *webUrlFrmance = https://joybos.fr/?ref=OOQODS8oOV5Gc
+ *webUrlJapan = https://jp.joybos.com/?ref=OOQODS8oOV5Gc
+
+Shelves and racksUrl=https://joybos.com/search?options%5Bprefix%5D=last&options%5Bunavailable_products%5D=last&q=Shelves%20and%20racks&ref=OOQODS8oOV5Gc&type=product
+Kitchen organizersUrl=https://joybos.com/collections/kitchen?ref=OOQODS8oOV5Gc
+Laundry organizersUrl=https://joybos.com/search?options%5Bprefix%5D=last&options%5Bunavailable_products%5D=last&q=Laundry&ref=OOQODS8oOV5Gc&type=product
+Home storage hooksUrl=https://joybos.com/search?options%5Bprefix%5D=last&options%5Bunavailable_products%5D=last&q=Home%20storage%20hooks&ref=OOQODS8oOV5Gc&type=product
+Bathroom accessoriesUrl=https://joybos.com/collections/bath?ref=OOQODS8oOV5Gc
+Cleaning ProductsUrl=https://joybos.com/collections/cleaning?ref=OOQODS8oOV5Gc
+Storage bins and basketsUrl=https://joybos.com/collections/storage-organization?ref=OOQODS8oOV5Gc
+    *refUrl=
+6) ===========Luxe=============================
+ *webUrl= https://luxepickleball.com/?ref=SAVE10
+    *refUrl=
+7) ===========Mr.Petcam=============================
+ *webUrl= https://www.mrpetcam.com/?ref=X5Yv12Dw9WIdy
+    *refUrl=
+8) ===========Pineapple============================= 
+ *webUrl= https://pineapple-island.com/?ref=b1LOg9GydjCMO
+    *refUrl=
+9) ===========Proteck =============================
+ *webUrl= https://www.proteckd.com/?ref=NaTiHvIWX2o4f
+    *refUrl=
+10) ==========PyroFarms =============================
+ *webUrl= https://pyrofarms.com/?ref=BdkW_mXetOO7V
+    *refUrl=
+11) ==========Rhino USA=============================
+ *webUrl= https://www.rhinousainc.com/collections/all-product-by-rhino-usa?ref=save20
+    *refUrl=
+12) ==========RYZE=============================
+ *webUrl=https://www.ryzesuperfoods.com/?ref=OHEi_K0rWFVJ 
+    *refUrl=
+13) ==========Sybotanica============================= 
+ *webUrl=https://www.sybotanica.com/?ref=YWGEunAYbq_wX&utm_campaign=partners&utm_medium=affiliate&utm_source=goaffpro 
+ Premium soil mixes=https://www.sybotanica.co.uk/collections/kokos-potgrond-kopen?ref=YWGEunAYbq_wX&utm_campaign=partners&utm_medium=affiliate&utm_source=goaffpro
+Soil improvers=https://www.sybotanica.co.uk/collections/soil-improvers-for-houseplants?ref=YWGEunAYbq_wX&utm_campaign=partners&utm_medium=affiliate&utm_source=goaffpro
+Plant pots=https://www.sybotanica.co.uk/collections/kweekpotjes-kopen?ref=YWGEunAYbq_wX&utm_campaign=partners&utm_medium=affiliate&utm_source=goaffpro
+Sphagnum Moss=https://www.sybotanica.co.uk/collections/sphagnum-moss?ref=YWGEunAYbq_wX&utm_campaign=partners&utm_medium=affiliate&utm_source=goaffpro
+Live Moss=https://www.sybotanica.co.uk/collections/levend-mos-kopen?ref=YWGEunAYbq_wX&utm_campaign=partners&utm_medium=affiliate&utm_source=goaffpro
+Houseplant Fertilizer=https://www.sybotanica.co.uk/collections/houseplant-fertilizer?ref=YWGEunAYbq_wX&utm_campaign=partners&utm_medium=affiliate&utm_source=goaffpro
+Moss poles=https://www.sybotanica.co.uk/collections/moss-poles?ref=YWGEunAYbq_wX&utm_campaign=partners&utm_medium=affiliate&utm_source=goaffpro
+*refUrl=
+14) ==========Tattooing=============================
+ *webUrl= https://yilongtattooing.com/?ref=save10
+    *refUrl=
+15) ==========Tempest=============================
+ *webUrl= https://shop.weatherflow.com/?ref=14T5bqE5ZEB37
+    *refUrl=
+16) ==========TesgoCA=============================
+ *webUrl=https://www.tesgobike.ca/?ref=dPJHcAeaV4HfI 
+    *refUrl=
+17) ==========Triggered=============================
+ *webUrl=  https://triggeredbrand.store/?ref=g8ta7EWrPTrv
+    *refUrl=
+18) ==========Uvlizer=============================
+ *webUrl=https://uvlizer.co/?ref=k-n1xbW9smsZa&utm_source=affiliate
+    *refUrl=
+19) ==========VitaHotDeals=============================
+ *webUrl=https://vitahotdeals.com/?ref=Sl-edQXotwBvN 
+    *refUrl=
+20) ==========Yose=============================
+ *webUrl= https://yosepower.com/?ref=12j2mHwKi_1WR
+    *refUrl=
+ 

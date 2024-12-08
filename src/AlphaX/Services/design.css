@@ -1,0 +1,421 @@
+/* Reset default styles */
+ 
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex; /* Aligns the nav items horizontally */
+}
+
+/* Ensure the list items are properly aligned */
+nav ul li {
+  position: relative;
+  padding: 10px 20px; /* Add some padding for the links */
+}
+
+.dot-toggle {
+  cursor: pointer;
+  margin-left: 10px;
+  font-size: 16px;
+  transition: 1s ;
+}
+
+.down-arrow {
+  transition: 3s ;
+  font-size: 10px;
+  color: #272525;
+}
+
+/* Style the dropdown container */
+.dropdown {
+  position: absolute;
+  top: 100%; /* Position directly below the Services link */
+  left: 0;
+  display: none; /* Hide the dropdown initially */
+  flex-direction: column; /* Ensure dropdown items stack vertically */
+  background-color: #fff;
+  border: 1px solid #ccc;
+  z-index: 1000; /* Ensure the dropdown appears above other elements */
+  min-width: 150px; /* Set a minimum width for the dropdown */
+}
+
+/* Show dropdown on hover */
+nav ul li:hover .dropdown {
+  display: block; /* Show the dropdown when hovering over Services */
+}
+
+/* Style each dropdown item */
+.dropdown li {
+  padding: 10px;
+  background-color: #f9f9f9;
+  border-bottom: 1px solid #ccc; /* Add a border between items */
+}
+
+/* Hover effect for dropdown items */
+.dropdown li:hover {
+  background-color: #e0e0e0;
+}
+
+/* Style the links inside the dropdown */
+.dropdown li a {
+  text-decoration: none;
+  color: #333;
+  display: block;
+  width: 100%; /* Make the link fill the li */
+}
+
+/* Ensure dropdown is aligned without pushing the main content */
+nav ul li {
+  display: inline-block;
+  white-space: nowrap;
+}
+
+/* Mobile Menu Styles */
+#navbar.active {
+  display: block;
+}
+
+#navbar {
+  display: none; /* Initially hide the navbar for mobile */
+}
+
+#mobile #bar {
+  cursor: pointer;
+}
+
+#navbar.active .dropdown {
+  display: block; /* Show dropdown in mobile mode */
+}
+
+.theme-toggle-button {
+  cursor: pointer;
+}
+
+/*  */
+/* Container for the whole section */
+.how-we-do-it {
+  margin-top: 60px;
+  text-align: center;
+  padding: 50px 20px;
+  background-color: #fff;
+}
+
+/* Subheading at the top */
+.subheading {
+  color: #ff3b5f; /* Red color as in your screenshot */
+  font-size: 16px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* Main title below subheading */
+.title {
+  font-size: 32px;
+  font-weight: 700;
+  margin: 20px 0;
+}
+
+/* Flexbox for Empathize and Define steps */
+.steps-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+  gap: 20px;
+}
+
+/* Individual step container */
+.step {
+  width: 100px !important;
+  box-shadow: 2px 2px 6px 4px rgba(128, 128, 128, 0.55);
+  flex: 1;
+  padding: 20px;
+  text-align: center;
+  background-color: red;
+}
+
+/* Icons for the steps */
+.icon {
+  width: 60px;
+  height: 60px;
+  margin-bottom: 20px;
+}
+
+/* Step titles */
+.step h3 {
+  font-size: 22px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+/* Step descriptions */
+.step p {
+  font-size: 16px;
+  color: #666;
+  line-height: 1.6;
+}
+
+.design-section {
+  padding: 0px 50px;
+  margin-top: 150px;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+
+  background-color: #fff;
+}
+
+.design-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  align-content: center;
+  /* gap: 50px; */
+}
+
+/* Left Image Container */
+.design-image img {
+  width: 100%;
+  height: 100%; /* Adjust as needed */
+  /* border-radius: 50%; */
+  /* border: 3px dotted #e91e63;   */
+  padding: 20px;
+  /* background-color: red; */
+}
+
+/* Right Text Container */
+/* .design-text {
+  max-width: 500px;
+} */
+
+/* Section Title */
+.section-title {
+  color: #ff3b5f;
+  font-size: 18px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 10px;
+}
+
+/* Breadcrumb Navigation */
+.breadcrumb {
+  color: #999;
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+.ToolsWeUse img:hover {
+  cursor: pointer;
+  transition: 0.2s;
+  scale: 1.2;
+}
+
+/* Main Heading */
+.main-text {
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+.card-text {
+  line-height: 35px;
+}
+.card-title {
+  font-weight: 600;
+}
+
+/* ToolsWeUse */
+.ToolsWeUse,
+.section3 {
+  margin-top: 250px;
+}
+
+.section150 {
+  margin-top: 150px;
+}
+.title {
+  margin: 0 !important;
+}
+
+/* travel */
+/* Container styling */
+.travelxp-container {
+  padding: 40px;
+  background-color: #f9f9f9;
+  text-align: center;
+  min-height: 100vh;
+}
+
+/* Title styling */
+.heading {
+  font-size: 3rem;
+  color: #e63946;
+  margin-bottom: 20px;
+  text-align: start;
+}
+
+/* Image banner styling */
+/* Image banner box styling */
+.image-banner {
+  width: 100%;
+
+  height: 300px;
+  background-color: #f1f1f1;
+  border-radius: 10px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  perspective: 1000px; /* Add perspective for the 3D effect */
+}
+
+/* Image styling to fit within the box */
+.banner-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+  transition: transform 0.6s ease, box-shadow 0.6s ease; /* Smooth transition */
+  transform-style: preserve-3d; /* Preserve 3D transform */
+}
+
+/* Content section styling */
+.content-section {
+  margin: 0 auto;
+  font-size: 1.2rem;
+  color: #333;
+  line-height: 1.8;
+  margin-bottom: 10px;
+}
+
+/* List section styling */
+.list-section {
+  margin: 0 auto;
+}
+
+.list-section h2 {
+  font-size: 2rem;
+  color: #1d3557;
+  margin-bottom: 15px;
+}
+
+.list-section ul {
+  list-style-type: disc;
+  text-align: left;
+  margin-left: 40px;
+}
+
+.list-section li {
+  font-size: 1rem;
+  color: #333;
+  margin-bottom: 10px;
+}
+.list-section .platform {
+  margin-top: 0;
+  padding: 0;
+  font-size: 12px;
+  width: 350px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.image-banner:hover .banner-img {
+  cursor: pointer;
+  transform: rotateY(15deg) rotateX(5deg); /* 3D rotation effect */
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2); /* Add shadow for depth */
+}
+
+.tech {
+  background-color: #dfdffe;
+}
+.marketing {
+  background-color: #dfd5e6;
+}
+.morecards a {
+  text-decoration: none;
+}
+
+/* Card container with wave animation */
+.morecards .card {
+  position: relative;
+  overflow: hidden;
+  border-radius: 10px;
+  transition: transform 0.3s ease;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Wave animation on hover using pseudo-element */
+.morecards .card::before {
+  content: "";
+  position: absolute;
+  width: 300%;
+  height: 300%;
+  top: 100%;
+  left: -100%;
+  background: rgba(0, 123, 255, 0.2); /* Light blue wave color */
+  transform: rotate(45deg); /* Tilt to create the wave look */
+  transition: top 0.5s ease;
+}
+
+/* Hover effect for the wave */
+.morecards .card:hover::before {
+  top: -50%;
+}
+
+/* Optional: Add a slight scale effect when hovering over the card */
+.morecards .card:hover {
+  transform: scale(1.05);
+}
+
+/* Styling for the tech card content */
+.tech {
+  padding: 20px;
+}
+
+.tech h1 {
+  font-weight: 600;
+  font-size: 2rem;
+}
+
+.marketing h1 {
+  font-weight: 600;
+  font-size: 2rem;
+}
+
+.tech p {
+  font-size: 1rem;
+}
+
+/* Crda 3d */
+
+/* Card styling */
+
+.section3 .card {
+  perspective: 1000px; /* Enable 3D space */
+}
+
+.section3 .card-body {
+  transition: transform 0.5s;
+}
+
+.section3 .card:hover .card-body {
+  cursor: default;
+  color: #e63946;
+  transform: rotateY(10deg) rotateX(10deg); /* 3D effect on hover */
+}
+
+/* morecards */
+.morecards3 {
+  width: 100%;
+  /* margin-top: -90px; */
+  z-index: 9999;
+  position: fixed;
+  top: 60px;
+  background-color: white;
+  padding-bottom: 10px;
+}
+.morecards3 .card {
+  height: 120px;
+}
+
+/* mainHeader */

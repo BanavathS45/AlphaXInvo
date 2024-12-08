@@ -1,0 +1,364 @@
+{
+  "companysData": [
+    {
+      "id": 1,
+      "image": "/Images/Home/astarinchimes.png",
+      "title": "Astarin Chimes",
+      "url": " /astarinchimes ",
+      "update": "Comming soon"
+    },
+    {
+      "id": 2,
+      "image": "Images/Home/boderry.jpg",
+      "title": "Boderry Watch Co1",
+      "url": "/store/boderry"
+    },
+    {
+      "id": 3,
+      "image": "Images/Home/glamermaid.png",
+      "title": "Glamermaid",
+      "url": "/store/glamermaid "
+    },
+    {
+      "id": 4,
+      "image": "Images/Home/Guduchi.png",
+      "title": "Guduchi Ayurveda",
+      "url": "/store/guduchi "
+    },
+    {
+      "id": 5,
+      "image": "Images/Home/joybos_logo1.png",
+      "title": " Joybos",
+      "url": "/store/joybos "
+    },
+    {
+      "id": 6,
+      "image": "Images/Home/luxepickleball1.png",
+      "title": "Luxe Pickle Ball",
+      "url": "/store/luxe "
+    },
+    {
+      "id": 7,
+      "image": "Images/Home/mrpetcam.jpeg",
+      "title": "Mr.Petcam",
+      "url": "/store/petcam "
+    },
+    {
+      "id": 8,
+      "image": "Images/Home/pineapple-island.png",
+      "title": " Pineapple Lsland",
+      "url": "/store/pineapple "
+    },
+    {
+      "id": 9,
+      "image": "Images/Home/proteckd.png",
+      "title": "Proteck'd Apparel",
+      "url": "/store/proteck "
+    },
+    {
+      "id": 10,
+      "image": "Images/Home/pyrofarms.jpeg",
+      "title": "PyroFarms",
+      "url": "/store/pyroFarms "
+    },
+    {
+      "id": 11,
+      "imgae": "Images/Home/rhinousainc_(1).png",
+      "title": "Rhino USA",
+      "url": "/store/rhinoUSA "
+    },
+    {
+      "id": 12,
+      "image": "Images/Home/ryzesuperfoods1.jpeg",
+      "title": "RYZE Superfoods",
+      "url": "/store/rYZE"
+    },
+    {
+      "id": 13,
+      "image": "Images/Home/sybotanica_logo.png",
+      "title": "Sybotanica",
+      "url": "/store/sybotanica "
+    },
+    {
+      "id": 14,
+      "image": "Images/Home/tempest_(1).png",
+      "title": "Tempest Weather Flow",
+      "url": "/store/tempest "
+    },
+    {
+      "id": 15,
+      "image": "Images/Home/tesgobike1.png",
+      "title": "tesgoCA",
+      "url": "/store/tesgoCA"
+    },
+    {
+      "id": 16,
+      "image": "Images/Home/triggeredbrand_(1).png",
+      "title": "The Triggered Brand",
+      "url": "/store/triggered"
+    },
+    {
+      "id": 17,
+      "image": "Images/Home/uvlizer.png",
+      "title": "Uvlizer",
+      "url": "/store/uvlizer"
+    },
+    {
+      "id": 18,
+      "image": "Images/Home/vitahotdeals.jpg",
+      "title": "VitaHotDeals",
+      "url": "/store/vitaHotDeals",
+      "update": "Comming soon"
+    },
+    {
+      "id": 19,
+      "image": "Images/Home/YILONG_TATOO.png",
+      "title": "Yilong Tattooing",
+      "url": "/store/tattooing"
+    },
+    {
+      "id": 20,
+      "image": "Images/Home/yosepower1.png",
+      "title": " Yose Power",
+      "url": "/store/yose ",
+      "update": "Comming soon"
+    },
+    {
+      "title": "Prashanth",
+      "url": "/store/hgth",
+      "update": "Comming soon",
+      "image": "Images/Home/bg.png",
+      "id": 21
+    },
+    {
+      "id": 20,
+      "image": "Images/Home/yosepower1.png",
+      "title": " Yose Power",
+      "url": "/store/yose "
+    }
+  ],
+
+  "_comment": "Marketing data Information",
+
+  "branding": [
+    {
+      "image": "https://png.pngtree.com/png-vector/20221124/ourmid/pngtree-edit-save-isolated-pen-vector-png-image_34756624.png",
+      "title": "Understand Objectives",
+      "description": "As a client-focused web and mobile app development company, we gain in-depth insights into your digital requirements, consumer behaviours, technology platforms, functionalities, etc., to help you gain a competitive edge. This is our approach for developing the right user experience, emphasising top-notch aesthetic               sensibilities that engage your consumers."
+    },
+    {
+      "image": "https://cdn1.iconfinder.com/data/icons/seo-web-design-4/64/design-web-seo-website-pen-edit-browser-512.png",
+      "title": "Choose Right ​​​​​​​Technology",
+      "description": "Empowered with tech-heavy centricity, our solutions transcend the usual methods of solving problems. We ensure a sophisticated frontend experience and develop a user-friendly backend by considering the bigger picture for tech-focused digital transformation that was once impossible."
+    },
+    {
+      "image": "https://cdn2.iconfinder.com/data/icons/ecommerce-551/64/blogging_web_content_media_digital-512.png",
+      "title": "Documented Coding",
+      "description": "From elegant designs to a custom-coded website, the radical development phase is driven by our digital mindfulness to translate your digital vision."
+    },
+    {
+      "image": "https://cdn3.iconfinder.com/data/icons/graphic-design-171/64/web_pen_tool_graphic_design_browser_vector-512.png",
+      "title": "Careful Testing",
+      "description": "With our great knowledge in tech engineering, we employ a rigorous QA testing process that encompasses testing speed, security, user-friendly interface experience, and overall functionality and eliminates flaws before the product goes live."
+    },
+    {
+      "image": "https://cdn2.iconfinder.com/data/icons/design-thinking-94/64/1_13._web_design_layout_development_programming_interface-512.png",
+      "title": "Successful Deployment",
+      "description": "When you decide to work with a thriving web and mobile app development company like us, you unlock the best tech-driven solutions that stand the test of time across multiple environments, including staging and production."
+    },
+    {
+      "image": "https://th.bing.com/th/id/OIP.duKUv0gkf5hBBaVrhB2AqAHaHa?w=512&h=512&rs=1&pid=ImgDetMain",
+      "title": "AMC Support",
+      "description": "Our technology experts are conversant with cutting-edge technology and software trends, maintaining a website and ensuring smooth app performance. Moreover, our foolproof AMC support lends best-in-class customer assistance equipped with hassle-free backend integration for our esteemed patrons."
+    }
+  ],
+  "digital": {
+    "Email Marketing": "Web design involves creating visually appealing websites with a user-friendly experience.",
+    "Branding": "Development includes building robust and scalable web applications.",
+    "SEO": "Front-end development focuses on creating responsive UI using HTML, CSS, and JavaScript.",
+    "ASO": "Back-end development involves server-side scripting, APIs, and databases.",
+    "PPC Campaign": "JavaScript powers interactivity and dynamic content on web pages.",
+    "SMO": "CSS3 styles the appearance of web pages, including layout and design features.",
+    "Content Marketing": "HTML5 structures web content using semantic elements and multimedia support.",
+    "Video Marketing": "Angular is a front-end framework for building dynamic single-page applications.",
+    "SMM": "E-commerce development enables online stores and secure transactions."
+  },
+  "MarketingTools": [
+    {
+      "toolImg": "https://th.bing.com/th/id/R.0f70d47cc6eb26955411fc30106dad9a?rik=5c5eiYoGeEkwRg&riu=http%3a%2f%2flogicbig.com%2ftutorials%2fmisc%2fgit%2fimages%2fgit.png&ehk=jMks4Z8b%2fax34N%2fpaiUcftkG3a5C8q%2bs8Eu%2b6vXVEi0%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "toolImg": "https://static.vecteezy.com/system/resources/previews/016/716/481/original/facebook-icon-free-png.png"
+    },
+    {
+      "toolImg": "https://th.bing.com/th/id/R.b757f2bca8039d4a08882d38f4c1b8f0?rik=RkV3z9I2nKqN9g&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fpng-twitter-logo-twitter-in-png-2500.png&ehk=waG%2bvemWkWhR2fldFDSNqLVXSXsqYneIiDse7tPV%2fXg%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "toolImg": "https://th.bing.com/th/id/OIP.xa0FgRBsvMi7bmVNCDYsCgHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "toolImg": "https://logodownload.org/wp-content/uploads/2018/03/google-adsense-logo-0.png"
+    },
+    {
+      "toolImg": "https://th.bing.com/th/id/R.a330e248626552a23af35e5c46526234?rik=DZhkgnpER0YViQ&riu=http%3a%2f%2fpngimg.com%2fuploads%2flinkedIn%2flinkedIn_PNG8.png&ehk=4bFzIDABrAypqOis7809R99fdbUW93GC4XfvnNxZfdA%3d&risl=&pid=ImgRaw&r=0"
+    }
+  ],
+
+  "_comment1": "technology data Information",
+  "effort": [
+    {
+      "title": "Understand Objectives",
+      "description": "As a client-focused web and mobile app development company, we gain in-depth insights into your digital requirements, consumer behaviours, technology platforms, functionalities, etc., to help you gain a competitive edge. This is our approach for developing the right user experience, emphasising top-notch aesthetic               sensibilities that engage your consumers."
+    },
+    {
+      "title": "Choose Right ​​​​​​​Technology",
+      "description": "Empowered with tech-heavy centricity, our solutions transcend the usual methods of solving problems. We ensure a sophisticated frontend experience and develop a user-friendly backend by considering the bigger picture for tech-focused digital transformation that was once impossible."
+    },
+    {
+      "title": "Documented Coding",
+      "description": "From elegant designs to a custom-coded website, the radical development phase is driven by our digital mindfulness to translate your digital vision."
+    },
+    {
+      "title": "Careful Testing",
+      "description": "With our great knowledge in tech engineering, we employ a rigorous QA testing process that encompasses testing speed, security, user-friendly interface experience, and overall functionality and eliminates flaws before the product goes live."
+    },
+    {
+      "title": "Successful Deployment",
+      "description": "When you decide to work with a thriving web and mobile app development company like us, you unlock the best tech-driven solutions that stand the test of time across multiple environments, including staging and production."
+    },
+    {
+      "title": "AMC Support",
+      "description": "Our technology experts are conversant with cutting-edge technology and software trends, maintaining a website and ensuring smooth app performance. Moreover, our foolproof AMC support lends best-in-class customer assistance equipped with hassle-free backend integration for our esteemed patrons."
+    }
+  ],
+  "techDetails": {
+    "Web Design": "Web design involves creating visually appealing websites with a user-friendly experience.",
+    "Development": "Development includes building robust and scalable web applications.",
+    "Front-End": "Front-end development focuses on creating responsive UI using HTML, CSS, and JavaScript.",
+    "Back-End": "Back-end development involves server-side scripting, APIs, and databases.",
+    "JavaScript": "JavaScript powers interactivity and dynamic content on web pages.",
+    "CSS3": "CSS3 styles the appearance of web pages, including layout and design features.",
+    "HTML5": "HTML5 structures web content using semantic elements and multimedia support.",
+    "Angular": "Angular is a front-end framework for building dynamic single-page applications.",
+    "E-commerce": "E-commerce development enables online stores and secure transactions."
+  },
+  "MobileTech": {
+    "IOS": "Web design involves creating visually appealing websites with a user-friendly experience.",
+    "Ionic": "Development includes building robust and scalable web applications.",
+    "Native": "Front-end development focuses on creating responsive UI using HTML, CSS, and JavaScript.",
+    "Android": "Back-end development involves server-side scripting, APIs, and databases.",
+    "Hybird": "JavaScript powers interactivity and dynamic content on web pages."
+  },
+  "technoloyTools": [
+    {
+      "toolImg": "https://th.bing.com/th/id/R.0f70d47cc6eb26955411fc30106dad9a?rik=5c5eiYoGeEkwRg&riu=http%3a%2f%2flogicbig.com%2ftutorials%2fmisc%2fgit%2fimages%2fgit.png&ehk=jMks4Z8b%2fax34N%2fpaiUcftkG3a5C8q%2bs8Eu%2b6vXVEi0%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "toolImg": "https://static.vecteezy.com/system/resources/previews/016/716/481/original/facebook-icon-free-png.png"
+    },
+    {
+      "toolImg": "https://th.bing.com/th/id/R.b757f2bca8039d4a08882d38f4c1b8f0?rik=RkV3z9I2nKqN9g&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fpng-twitter-logo-twitter-in-png-2500.png&ehk=waG%2bvemWkWhR2fldFDSNqLVXSXsqYneIiDse7tPV%2fXg%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "toolImg": "https://th.bing.com/th/id/OIP.xa0FgRBsvMi7bmVNCDYsCgHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "toolImg": "https://logodownload.org/wp-content/uploads/2018/03/google-adsense-logo-0.png"
+    },
+    {
+      "toolImg": "https://th.bing.com/th/id/R.a330e248626552a23af35e5c46526234?rik=DZhkgnpER0YViQ&riu=http%3a%2f%2fpngimg.com%2fuploads%2flinkedIn%2flinkedIn_PNG8.png&ehk=4bFzIDABrAypqOis7809R99fdbUW93GC4XfvnNxZfdA%3d&risl=&pid=ImgRaw&r=0"
+    }
+  ],
+  "_comment2": "Design data Information",
+  "designTools": [
+    {
+      "toolImg": "https://cdn-icons-png.flaticon.com/128/5968/5968520.png"
+    },
+    {
+      "toolImg": "https://cdn-icons-png.flaticon.com/128/5611/5611037.png"
+    },
+    {
+      "toolImg": "https://cdn-icons-png.flaticon.com/128/5611/5611129.png"
+    },
+    {
+      "toolImg": "https://cdn-icons-png.flaticon.com/128/186/186300.png"
+    },
+    {
+      "toolImg": "https://cdn-icons-png.flaticon.com/128/5968/5968705.png"
+    },
+    {
+      "toolImg": "https://cdn-icons-png.flaticon.com/128/1409/1409945.png"
+    }
+  ],
+
+  "howwedo": [
+    {
+      "image": "https://i.gifer.com/embedded/download/3BA4.gif ",
+      "title": "Empathise",
+      "description": "As a thriving UI UX agency, we harness the proven empathy-driven human-focused design process to craft the best digital solutions Mapping the users preferences."
+    },
+    {
+      "image": "https://cdn.dribbble.com/users/1473736/screenshots/4106177/logo-animated.gif ",
+      "title": "Define ( the Problem)",
+      "description": "Apt logic and detailing is incorporated precisely with elements                 like design functions, features, functionalities, workflow and                 beyond to solve complex issues with minimal snags."
+    },
+    {
+      "image": "https://i.gifer.com/embedded/download/3BA4.gif ",
+      "title": "Ideation",
+      "description": "With Proven ideation techniques combined with a client-centric                 approach at the core, we ideate roadmaps while mapping your                 business journey to decode human-focused problem statements."
+    },
+    {
+      "image": "https://cdn.dribbble.com/users/364593/screenshots/6244004/preview.gif ",
+      "title": "Prototype",
+      "description": "We develop a results-focused prototype meant to build an                 authentic digital connection with the utmost level of detail and                 quality based on diversified experiments."
+    },
+    {
+      "image": "https://blog.hubspot.com/hubfs/26%20Animated%20Logos%20to%20Inspire%20Your%20Own-12.gif ",
+      "title": "Testing",
+      "description": "We finetune our designs using state-of-the-art testing                techniques by testing the overall product usability at                Omni-channel platforms to impart a clear big picture of design                 experience benchmarking, blueprints, personas, and journey maps                 of ideal consumers."
+    }
+  ],
+
+  "_comment3": "Routing data Information",
+
+  "routing": [
+    {
+      "image": "https://cdn-icons-png.flaticon.com/128/545/545682.png ",
+      "title": "Design.",
+      "description": "Leverage the power of code.",
+      "path":"/design"
+    },
+    {
+      "image": "https://cdn-icons-png.flaticon.com/128/545/545682.png ",
+      "title": "Technology.",
+      "description": "Creative strategies for brands.",
+        "path":"/technology"
+    },
+    {
+      "image": "https://cdn-icons-png.flaticon.com/128/545/545682.png ",
+      "title": "Marketing.",
+      "description": "Creative strategies for brands.",
+        "path":"/marketing"
+    }
+  ],
+  "routingAbout": [
+    {
+      "image": "https://cdn-icons-png.flaticon.com/128/545/545682.png ",
+      "title": "About Us.",
+      "description": "Leverage the power of code.",
+        "path":"/about"
+    },
+    {
+      "image": "https://cdn-icons-png.flaticon.com/128/545/545682.png ",
+      "title": "Team.",
+      "description": "Creative strategies for brands.",
+        "path":"/team"
+    },
+    {
+      "image": "https://cdn-icons-png.flaticon.com/128/545/545682.png ",
+      "title": "Career.",
+      "description": "Creative strategies for brands.",
+        "path":"/career"
+    }
+  ]
+}

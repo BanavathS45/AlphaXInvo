@@ -1,0 +1,55 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .technologies {
+    text-align: center;
+    padding: 1rem;
+  }
+  
+  .tech-link {
+    background: transparent;
+    border: none;
+    color: #333;
+    font-size: 1.5rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: color 0.3s ease, transform 0.2s ease;
+  }
+  
+  .tech-link:hover {
+    color: #ef233c;
+    transform: scale(1.1);
+  }
+  
+  .modal-header,
+  .modal-footer {
+    background: #f8f9fa;
+  }
+  
+  .modal-title {
+    color: #333;
+    font-size: 1.8rem;
+    font-weight: bold;
+  }
+  
+  .modal-body {
+    color: #555;
+    font-size: 1.2rem;
+  }
+  
+  .modal-footer .btn-secondary {
+    background: #ef233c;
+    border: none;
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+    transition: background 0.3s ease;
+  }
+  
+  .modal-footer .btn-secondary:hover {
+    background: #d90429;
+  }
+  
